@@ -1,0 +1,43 @@
+.container {
+    max-width: 780px;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin: 0 auto;
+    padding: 20px;
+    align-items: center;
+    position: relative;
+}
+
+.losewin {
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.btn {
+    background: inherit;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-size: 2rem;
+    font-weight: 700;
+    cursor: pointer;
+    font-family: 'Monaco', monospace;
+
+    & span {
+        padding: 0.7rem;
+        border: 3px solid #fff;
+
+        &:first-child {
+            border-right: none;
+        }
+
+        &:last-child {
+            border-left: none;
+        }
+
+        &.active {
+            background-color: #0088cc;
+        }
+    }
+}
