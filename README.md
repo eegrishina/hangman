@@ -1,7 +1,6 @@
 # Hangman Game  
 
-<img src="./README_img/hangman-en.png" alt="Hangman EN" width="35%">
-<img src="./README_img/hangman-ru.png" alt="Hangman RU" width="35%">
+<img src="./README_img/hangman-en.png" alt="Hangman EN" width="35%"><img src="./README_img/hangman-ru.png" alt="Hangman RU" width="35%">
 
 ### [Демо игры](https://kaktusgr.github.io/hangman/)
 
