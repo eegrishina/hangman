@@ -1,12 +1,12 @@
 # Hangman Game  
 
-<img src="./README_img/hangman-en.png" alt="Hangman EN" width="35%"><img src="./README_img/hangman-ru.png" alt="Hangman RU" width="35%">
+<img src="./README_img/hangman-en.png" alt="Hangman EN" width="40%">   <img src="./README_img/hangman-ru.png" alt="Hangman RU" width="40%">
 
 ### [Демо игры](https://kaktusgr.github.io/hangman/)
 
 ## Описание
 
-Учебный проект интерактивной игры "Виселица". Игра реализована на **TypeScript** и **React**. 
+Учебный проект интерактивной игры "Виселица". Игра реализована на **TypeScript** и **React** с использованием **CSS Modules** для стилизации компонентов. 
 
 Проект создан по обучающему [туториалу](https://www.youtube.com/watch?v=-ONUyenGnWw&list=WL&index=4) и дополнен собственными улучшениями.  
 
