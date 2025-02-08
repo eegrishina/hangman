@@ -2,7 +2,7 @@
 
 <img src="./README_img/hangman-en.png" alt="Hangman EN" width="40%">   <img src="./README_img/hangman-ru.png" alt="Hangman RU" width="40%">
 
-### [Демо игры](https://kaktusgr.github.io/hangman/)
+### [Демо игры](https://eegrishina.github.io/hangman/)
 
 ## Описание
 
